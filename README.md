@@ -1,0 +1,2 @@
+# KonusarakOgren
+Sınav Projesi
